@@ -89,7 +89,7 @@ const Loginform = ({children}) => {
     <><Nav/>
     <center>
     <form action="" onSubmit={handlesubmit} className='form'> 
-        <img src="../img/Person.png" alt="leaf"  className='leaf'/>
+        <img src="../img/person.png" alt="leaf"  className='leaf'/>
         <h2 className='loginf'>Login Form</h2>
     <section className="email">
         <label htmlFor="" className='label'>EMAIL</label> 
